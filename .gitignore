@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+ 
+# Compilación
+bin/
+obj/
+ 
+# Base de datos SQLite
+*.db
+*.db-shm
+*.db-wal
+ 
+# Archivos temporales
+*.tmp
+*.log

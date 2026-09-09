@@ -1,0 +1,6 @@
+@ActividadAutoaprendizaje_HostAddress = http://localhost:5067
+
+GET {{ActividadAutoaprendizaje_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
